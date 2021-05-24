@@ -4,6 +4,6 @@ public class HelloWorld {
 	public static void main(String args[]) {
 		System.out.println("Hello world");
 		System.out.println("this is new commit");
-		System.out.println("this is new  master branch");
+		System.out.println("preparing for new commit");
 	}
 }
